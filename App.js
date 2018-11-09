@@ -19,6 +19,3 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
   }
 });
-
-
-// Verdura theme Color #96bf49
