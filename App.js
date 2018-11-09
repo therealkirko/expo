@@ -8,7 +8,9 @@ import store from './app/components/Store';
 export default class App extends Component<Props> {
   render() {
     return (
-      <ShoppingCart />
+      <Provider store={store}>
+        <ShoppingCart />
+      </Provider>
     );
   }
 }
