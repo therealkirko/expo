@@ -1,4 +1,5 @@
-export const vegetables = [
+// This is the custom data for the various dataset
+xport const vegetables = [
   {
     id: 1,
     name: 'Tomatoes',
